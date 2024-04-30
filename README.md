@@ -53,3 +53,6 @@ Feel free to connect, and let's share our coding experiences and knowledge!
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=akrem-jr&show_icons=true&theme=radical)](https://github.com/akrem-jr)
 
 <!-- Feel free to customize the sections and add more information based on your preferences. -->
+ ## Most Used Language
+
+ <a href="https://github-readme-stats.vercel.app/api/top-langs?username=akrem-jr&show_icons=true&locale=en&layout=compact" alt="akrem-jr">

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akrem Jr - @akrem-jr
+# 👋 Hi, I'm Abdulbaset Adem - @akrem-jr
 
 Welcome to my GitHub profile! I'm passionate about coding and creating exciting projects. Currently, I specialize in Python, HTML, CSS, and JavaScript.
 

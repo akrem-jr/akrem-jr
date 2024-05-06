@@ -47,12 +47,12 @@ I'm open to collaborating on software development projects. If you have an inter
 - LinkedIn: [@Abdulbaset Adem](https://www.linkedin.com/in/abdulbaset-adem-484a87271/)
 
 Feel free to connect, and let's share our coding experiences and knowledge!
-
+<!--
 ## 🚀 GitHub Status
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=akrem-jr&show_icons=true&theme=radical)](https://github.com/akrem-jr)
 
-<!-- Feel free to customize the sections and add more information based on your preferences. -->
+ Feel free to customize the sections and add more information based on your preferences. -->
  ## Most Used Language
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrem-jr&show_icons=true&locale=en&layout=compact" alt="akrem-jr" /></p>

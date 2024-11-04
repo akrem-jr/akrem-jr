@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abdulbaset Adem - @akrem-jr
+# 👋 Hi, I'm Abdulbaset Adem - @akrem_jr
 
-Welcome to my GitHub profile! I'm passionate about coding and creating exciting projects. Currently, I specialize in Python, HTML, CSS, and JavaScript.
+Welcome to my GitHub profile! I'm passionate about coding and creating exciting projects. Currently, I specialize in Python, nodejs , next-js React js ,Tailwind css ,Mongodb , HTML, CSS, and JavaScript.
 
 # 🔧 Technologies & Tools
 
@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I'm passionate about coding and creating exciting 
 I'm actively learning and expanding my knowledge in:
 
 - Software Engineering principles
+- Problem solving
+- web development and related 
 
 ## 💼 Collaboration
 
@@ -45,9 +47,10 @@ I'm open to collaborating on software development projects. If you have an inter
 
 - Instagram: [@Akrem_jr1](https://www.instagram.com/Akrem_jr1/)
 - LinkedIn: [@Abdulbaset Adem](https://www.linkedin.com/in/abdulbaset-adem-484a87271/)
+- Personal Portfolio:  [@Abdulbaset Adem](https://akrem-jr.github.io/my_portfolio/)
 
 Feel free to connect, and let's share our coding experiences and knowledge!
-<!--
+
 ## 🚀 GitHub Status
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=akrem-jr&show_icons=true&theme=radical)](https://github.com/akrem-jr)
